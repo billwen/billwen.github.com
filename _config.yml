@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://asawing.com
+author: billwen
+pygments: true
+paginate: 16
